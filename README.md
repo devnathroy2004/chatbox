@@ -1,2 +1,2 @@
 # chatbox
-demo project
+demo project in java authentication 
